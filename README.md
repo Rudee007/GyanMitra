@@ -21,7 +21,7 @@ The system processes student queries, retrieves relevant content from NCERT text
 ![GyanMitra Screenshot 2](image/WhatsApp%20Image%202025-12-27%20at%2023.17.07.jpeg)
 ![GyanMitra Screenshot 3](image/WhatsApp%20Image%202025-12-27%20at%2023.17.08.jpeg)
 ![GyanMitra Screenshot 4](image/WhatsApp%20Image%202025-12-27%20at%2023.17.29.jpeg)
-![GyanMitra Screenshot 5](image/WhatsApp%20Image%202025-12-27%20at%2023.17.33.jpeg)
+![GyanMitra Screenshot 5](image/WhatsApp%20Image%202025-12-28%20at%2011.17.50.jpeg)
 
 </div>
 
