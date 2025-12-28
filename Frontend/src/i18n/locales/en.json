@@ -1,0 +1,114 @@
+{
+  "header": {
+    "title": "NCERT Doubt Solver",
+    "subtitle": "AI-Powered Learning Assistant",
+    "notifications": "Notifications",
+    "settings": "Settings",
+    "progress": "Progress",
+    "logout": "Logout",
+    "language": "Language"
+  },
+  "sidebar": {
+    "stats": "Your Stats",
+    "questionsAsked": "Questions Asked",
+    "streak": "Day Streak",
+    "accuracy": "Accuracy",
+    "totalTime": "Total Time",
+    "selectGrade": "Select Grade",
+    "selectSubject": "Select Subject",
+    "searchHistory": "Search history...",
+    "chatHistory": "Chat History",
+    "bookmarked": "Bookmarked",
+    "noHistory": "No chat history yet"
+  },
+  "chat": {
+    "welcome": "Welcome to AI Assistant",
+    "askAnything": "Ask me anything about {{subject}} for {{grade}}",
+    "readyToHelp": "Ready to help you learn",
+    "typeQuestion": "Type your question here...",
+    "attachImage": "Attach Image",
+    "send": "Send",
+    "copy": "Copy",
+    "share": "Share",
+    "source": "Source",
+    "goodResponse": "Good response",
+    "poorResponse": "Poor response",
+    "thinking": "Thinking..."
+  },
+  "feedback": {
+    "title": "Provide Feedback",
+    "rateResponse": "How would you rate this response?",
+    "excellent": "Excellent",
+    "good": "Good",
+    "average": "Average",
+    "poor": "Poor",
+    "veryPoor": "Very Poor",
+    "comments": "Additional Comments (Optional)",
+    "commentsPlaceholder": "Tell us more about your experience...",
+    "submit": "Submit Feedback",
+    "cancel": "Cancel",
+    "thankYou": "Thank you for your feedback!",
+    "error": "Failed to submit feedback",
+    "success": "Feedback submitted successfully!"
+  },
+  "profile": {
+    "title": "My Profile",
+    "personalInfo": "Personal Information",
+    "name": "Full Name",
+    "email": "Email",
+    "grade": "Grade",
+    "subjects": "Preferred Subjects",
+    "language": "Preferred Language",
+    "saveChanges": "Save Changes",
+    "cancel": "Cancel",
+    "updateSuccess": "Profile updated successfully!",
+    "updateError": "Failed to update profile"
+  },
+  "settings": {
+    "title": "Settings",
+    "appearance": "Appearance",
+    "darkMode": "Dark Mode",
+    "darkModeDesc": "Toggle dark/light theme",
+    "notifications": "Notifications",
+    "notificationsDesc": "Get study reminders & updates",
+    "language": "Default Language",
+    "studyGoal": "Daily Study Goal",
+    "saveChanges": "Save Changes",
+    "cancel": "Cancel",
+    "saved": "Settings saved successfully!"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "success": "Success!",
+    "close": "Close",
+    "save": "Save",
+    "edit": "Edit",
+    "delete": "Delete",
+    "confirm": "Confirm",
+    "yes": "Yes",
+    "no": "No"
+  },
+  "grades": {
+    "grade5": "Grade 5",
+    "grade6": "Grade 6",
+    "grade7": "Grade 7",
+    "grade8": "Grade 8",
+    "grade9": "Grade 9",
+    "grade10": "Grade 10"
+  },
+  "subjects": {
+    "math": "Math",
+    "science": "Science",
+    "socialScience": "Social Science",
+    "english": "English",
+    "hindi": "Hindi"
+  },
+  "languages": {
+    "english": "English",
+    "hindi": "Hindi",
+    "urdu": "Urdu",
+    "bengali": "Bengali",
+    "tamil": "Tamil"
+  }
+}

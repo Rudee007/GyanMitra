@@ -1,0 +1,114 @@
+{
+  "header": {
+    "title": "این سی ای آر ٹی شک حل کرنے والا",
+    "subtitle": "اے آئی سے چلنے والا سیکھنے کا معاون",
+    "notifications": "اطلاعات",
+    "settings": "ترتیبات",
+    "progress": "پیش رفت",
+    "logout": "لاگ آؤٹ",
+    "language": "زبان"
+  },
+  "sidebar": {
+    "stats": "آپ کے اعدادوشمار",
+    "questionsAsked": "پوچھے گئے سوالات",
+    "streak": "دن کی لکیر",
+    "accuracy": "درستگی",
+    "totalTime": "کل وقت",
+    "selectGrade": "جماعت منتخب کریں",
+    "selectSubject": "مضمون منتخب کریں",
+    "searchHistory": "تاریخ تلاش کریں...",
+    "chatHistory": "چیٹ کی تاریخ",
+    "bookmarked": "بک مارک شدہ",
+    "noHistory": "ابھی تک کوئی چیٹ کی تاریخ نہیں"
+  },
+  "chat": {
+    "welcome": "اے آئی معاون میں خوش آمدید",
+    "askAnything": "{{grade}} کے لیے {{subject}} کے بارے میں مجھ سے کچھ بھی پوچھیں",
+    "readyToHelp": "آپ کی سیکھنے میں مدد کے لیے تیار",
+    "typeQuestion": "اپنا سوال یہاں ٹائپ کریں...",
+    "attachImage": "تصویر منسلک کریں",
+    "send": "بھیجیں",
+    "copy": "کاپی کریں",
+    "share": "شیئر کریں",
+    "source": "ماخذ",
+    "goodResponse": "اچھا جواب",
+    "poorResponse": "خراب جواب",
+    "thinking": "سوچ رہا ہوں..."
+  },
+  "feedback": {
+    "title": "رائے دیں",
+    "rateResponse": "آپ اس جواب کو کیسے ریٹ کریں گے؟",
+    "excellent": "بہترین",
+    "good": "اچھا",
+    "average": "اوسط",
+    "poor": "خراب",
+    "veryPoor": "بہت خراب",
+    "comments": "اضافی تبصرے (اختیاری)",
+    "commentsPlaceholder": "اپنے تجربے کے بارے میں مزید بتائیں...",
+    "submit": "رائے جمع کرائیں",
+    "cancel": "منسوخ کریں",
+    "thankYou": "آپ کی رائے کا شکریہ!",
+    "error": "رائے جمع کرانے میں ناکامی",
+    "success": "رائے کامیابی سے جمع کرائی گئی!"
+  },
+  "profile": {
+    "title": "میری پروفائل",
+    "personalInfo": "ذاتی معلومات",
+    "name": "پورا نام",
+    "email": "ای میل",
+    "grade": "جماعت",
+    "subjects": "پسندیدہ مضامین",
+    "language": "پسندیدہ زبان",
+    "saveChanges": "تبدیلیاں محفوظ کریں",
+    "cancel": "منسوخ کریں",
+    "updateSuccess": "پروفائل کامیابی سے اپ ڈیٹ ہو گئی!",
+    "updateError": "پروفائل اپ ڈیٹ کرنے میں ناکامی"
+  },
+  "settings": {
+    "title": "ترتیبات",
+    "appearance": "ظاہری شکل",
+    "darkMode": "ڈارک موڈ",
+    "darkModeDesc": "ڈارک/لائٹ تھیم ٹوگل کریں",
+    "notifications": "اطلاعات",
+    "notificationsDesc": "مطالعہ کی یاد دہانیاں اور اپ ڈیٹس حاصل کریں",
+    "language": "ڈیفالٹ زبان",
+    "studyGoal": "روزانہ مطالعہ کا ہدف",
+    "saveChanges": "تبدیلیاں محفوظ کریں",
+    "cancel": "منسوخ کریں",
+    "saved": "ترتیبات کامیابی سے محفوظ ہو گئیں!"
+  },
+  "common": {
+    "loading": "لوڈ ہو رہا ہے...",
+    "error": "ایک خرابی واقع ہوئی",
+    "success": "کامیابی!",
+    "close": "بند کریں",
+    "save": "محفوظ کریں",
+    "edit": "ترمیم کریں",
+    "delete": "حذف کریں",
+    "confirm": "تصدیق کریں",
+    "yes": "ہاں",
+    "no": "نہیں"
+  },
+  "grades": {
+    "grade5": "جماعت 5",
+    "grade6": "جماعت 6",
+    "grade7": "جماعت 7",
+    "grade8": "جماعت 8",
+    "grade9": "جماعت 9",
+    "grade10": "جماعت 10"
+  },
+  "subjects": {
+    "math": "ریاضی",
+    "science": "سائنس",
+    "socialScience": "سماجی علوم",
+    "english": "انگریزی",
+    "hindi": "ہندی"
+  },
+  "languages": {
+    "english": "انگریزی",
+    "hindi": "ہندی",
+    "urdu": "اردو",
+    "bengali": "بنگالی",
+    "tamil": "تمل"
+  }
+}

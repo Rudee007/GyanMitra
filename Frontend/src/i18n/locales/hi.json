@@ -1,0 +1,114 @@
+{
+  "header": {
+    "title": "एनसीईआरटी संदेह समाधानकर्ता",
+    "subtitle": "एआई-संचालित शिक्षण सहायक",
+    "notifications": "सूचनाएं",
+    "settings": "सेटिंग्स",
+    "progress": "प्रगति",
+    "logout": "लॉग आउट",
+    "language": "भाषा"
+  },
+  "sidebar": {
+    "stats": "आपके आंकड़े",
+    "questionsAsked": "पूछे गए प्रश्न",
+    "streak": "दिन की लकीर",
+    "accuracy": "सटीकता",
+    "totalTime": "कुल समय",
+    "selectGrade": "कक्षा चुनें",
+    "selectSubject": "विषय चुनें",
+    "searchHistory": "इतिहास खोजें...",
+    "chatHistory": "चैट इतिहास",
+    "bookmarked": "बुकमार्क किया गया",
+    "noHistory": "अभी तक कोई चैट इतिहास नहीं"
+  },
+  "chat": {
+    "welcome": "एआई सहायक में आपका स्वागत है",
+    "askAnything": "{{grade}} के लिए {{subject}} के बारे में मुझसे कुछ भी पूछें",
+    "readyToHelp": "आपकी सीखने में मदद करने के लिए तैयार",
+    "typeQuestion": "अपना प्रश्न यहाँ टाइप करें...",
+    "attachImage": "छवि संलग्न करें",
+    "send": "भेजें",
+    "copy": "कॉपी करें",
+    "share": "साझा करें",
+    "source": "स्रोत",
+    "goodResponse": "अच्छा जवाब",
+    "poorResponse": "खराब जवाब",
+    "thinking": "सोच रहा हूँ..."
+  },
+  "feedback": {
+    "title": "प्रतिक्रिया दें",
+    "rateResponse": "आप इस उत्तर को कैसे रेट करेंगे?",
+    "excellent": "उत्कृष्ट",
+    "good": "अच्छा",
+    "average": "औसत",
+    "poor": "खराब",
+    "veryPoor": "बहुत खराब",
+    "comments": "अतिरिक्त टिप्पणियाँ (वैकल्पिक)",
+    "commentsPlaceholder": "अपने अनुभव के बारे में और बताएं...",
+    "submit": "प्रतिक्रिया सबमिट करें",
+    "cancel": "रद्द करें",
+    "thankYou": "आपकी प्रतिक्रिया के लिए धन्यवाद!",
+    "error": "प्रतिक्रिया सबमिट करने में विफल",
+    "success": "प्रतिक्रिया सफलतापूर्वक सबमिट की गई!"
+  },
+  "profile": {
+    "title": "मेरी प्रोफ़ाइल",
+    "personalInfo": "व्यक्तिगत जानकारी",
+    "name": "पूरा नाम",
+    "email": "ईमेल",
+    "grade": "कक्षा",
+    "subjects": "पसंदीदा विषय",
+    "language": "पसंदीदा भाषा",
+    "saveChanges": "परिवर्तन सहेजें",
+    "cancel": "रद्द करें",
+    "updateSuccess": "प्रोफ़ाइल सफलतापूर्वक अपडेट की गई!",
+    "updateError": "प्रोफ़ाइल अपडेट करने में विफल"
+  },
+  "settings": {
+    "title": "सेटिंग्स",
+    "appearance": "दिखावट",
+    "darkMode": "डार्क मोड",
+    "darkModeDesc": "डार्क/लाइट थीम टॉगल करें",
+    "notifications": "सूचनाएं",
+    "notificationsDesc": "अध्ययन अनुस्मारक और अपडेट प्राप्त करें",
+    "language": "डिफ़ॉल्ट भाषा",
+    "studyGoal": "दैनिक अध्ययन लक्ष्य",
+    "saveChanges": "परिवर्तन सहेजें",
+    "cancel": "रद्द करें",
+    "saved": "सेटिंग्स सफलतापूर्वक सहेजी गईं!"
+  },
+  "common": {
+    "loading": "लोड हो रहा है...",
+    "error": "एक त्रुटि हुई",
+    "success": "सफलता!",
+    "close": "बंद करें",
+    "save": "सहेजें",
+    "edit": "संपादित करें",
+    "delete": "हटाएं",
+    "confirm": "पुष्टि करें",
+    "yes": "हाँ",
+    "no": "नहीं"
+  },
+  "grades": {
+    "grade5": "कक्षा 5",
+    "grade6": "कक्षा 6",
+    "grade7": "कक्षा 7",
+    "grade8": "कक्षा 8",
+    "grade9": "कक्षा 9",
+    "grade10": "कक्षा 10"
+  },
+  "subjects": {
+    "math": "गणित",
+    "science": "विज्ञान",
+    "socialScience": "सामाजिक विज्ञान",
+    "english": "अंग्रेज़ी",
+    "hindi": "हिंदी"
+  },
+  "languages": {
+    "english": "अंग्रेज़ी",
+    "hindi": "हिंदी",
+    "urdu": "उर्दू",
+    "bengali": "बंगाली",
+    "tamil": "तमिल"
+  }
+}
